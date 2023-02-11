@@ -1,0 +1,4 @@
+R programming-Language of datascience
+free opensource great community 9000+ packages
+.R extension
+R enter to run R in cmd
